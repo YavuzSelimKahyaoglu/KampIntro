@@ -6,6 +6,7 @@ namespace Metodlar
 {
     class SepetManager
     {
+        //Git Güncellendi mi? deneme
         public void Ekle(Urun urun)
         {
             Console.WriteLine("Tebrikler. "+urun.Adi+" Sepete Eklendi!");
